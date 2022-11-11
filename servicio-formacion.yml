@@ -6,7 +6,3 @@ eureka:
     hostName: 172.20.112.1
 server:
   port: 7000
-spring:
-  mvc:
-    pathmatch:
-      matching-strategy: ant-path-matcher
