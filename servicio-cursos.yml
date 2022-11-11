@@ -16,4 +16,4 @@ eureka:
     hostName: localhost
     instance-id: ${spring.application.name}:${random.value}
 server:
-  port: 8000
+  port: 8001
